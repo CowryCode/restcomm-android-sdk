@@ -44,9 +44,12 @@ We welcome contributions from freelancers who are passionate about advancing res
 File Description
 ================
 Contained in this repository are:
-- #main.CSS: this file can be found in the "static" folder and controls the design of the front-end. The two logos can be found in this "static" folder as well.
-- index.html: this file is the only frontend page, 
-- Origin
+- **main.CSS**: this file can be found in the "static" folder and controls the design of the front end. The two logos can be found in this "static" folder as well.
+- **index.html**: this file is the only frontend page and can be found in the "template" folder.
+- **requirements.txt**: this file contains all the backend dependencies to run the Python app.
+- **app.py**: this is the file that houses the API, and all the backend logic.
+- **schema.sql**: This file contains the table creation and dropping SQL scripts.
+- **database.db**: This is the in-app database.
 
 
 
