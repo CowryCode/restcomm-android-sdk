@@ -44,7 +44,7 @@ We welcome contributions from freelancers who are passionate about advancing res
 File Description
 ================
 Contained in this repository are:
-- main.CSS: this file can be found in the "static" folder and controls the design of the front-end. The two logos can be found in this "static" folder as well.
+- #main.CSS: this file can be found in the "static" folder and controls the design of the front-end. The two logos can be found in this "static" folder as well.
 - index.html: this file is the only frontend page, 
 - Origin
 
