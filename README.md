@@ -15,13 +15,15 @@ RestComm Mobile - Android SDK
 
 Android Mobile SDK to easily integrate communication features (WebRTC, messaging, presence, voice, video, screensharing) based on [RestComm](http://restcomm.com/) into native Mobile Applications.
 
-RestComm Mobile - Android SDK
+Introduction
 ================
-
+This is a noble project for the research community of Dalhousie University to help improve the speed of Research Ethics Board (REB) approval which will speed up time for the research community.
+We intend to use AI to review contents of consent form to ensure researchers are submitting complete and correct information for the Board's peruals. the work was started by an intern in our facaulty who have now joined IBM. We will aprreciate free-lancers who may want to contribute code to the project.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [File Structure](#File Structure)
+- [Files Functions](#Files Functions)
+- [Good to have](#Good to have)
 - [License](#license)
+- [Contact Us](#Contact Us)
 
