@@ -15,13 +15,23 @@ RestComm Mobile - Android SDK
 
 Android Mobile SDK to easily integrate communication features (WebRTC, messaging, presence, voice, video, screensharing) based on [RestComm](http://restcomm.com/) into native Mobile Applications.
 
+## Table of Contents
+- Introduction
+- Project Overview
+- Origin
+- How to contribute
+- Files Description
+- Good to have
+- License
+- Contact Us
+  
 Introduction
 ================
-Welcome to the REB Approval Accelerator project! This initiative is aimed at benefiting the esteemed research community of Dalhousie University by streamlining the Research Ethics Board (REB) approval process. By optimizing the approval process, we aim to significantly reduce the turnaround time for researchers, thereby fostering a more efficient research environment.
+Welcome to the REB Approval Accelerator project! This initiative is aimed at benefiting the esteemed research community of Dalhousie University by streamlining the Research Ethics Board (REB) approval process. By optimizing the approval process, we aim to significantly reduce the turnaround time for researchers through faster ethics approval, thereby fostering a more efficient research environment.
 
 Project Overview
 ================
-The primary objective of this project is to leverage artificial intelligence (AI) to expedite the review of research consent forms. Through AI-powered analysis, we aim to ensure that researchers submit comprehensive and accurate information, facilitating the REB's review process.
+The primary objective of this project is to leverage artificial intelligence (AI) to expedite the review of research ethics approval, through an AI-powered review of the consent form content (which forms a major bottleneck in the process). The APP is a web app with Python API built with the Flask framework as a backend and makes an external call to OpenAI API. The front end is built with HTML and CSS.
 
 Origin
 ================
@@ -29,14 +39,14 @@ The groundwork for this project was laid by an intern within our faculty, who ha
 
 How You Can Contribute
 ================
-We welcome contributions from freelancers who are passionate about advancing research ethics and accelerating the approval process. Whether you're proficient in coding, AI, or have valuable insights to share, your contributions are highly appreciated. Together, we can make a meaningful impact on the research community.
+We welcome contributions from freelancers who are passionate about advancing research ethics and accelerating the approval process. Whether you're proficient in coding, AI, or have valuable insights to share, your contributions are highly appreciated.
 
-Thank you for your interest in the REB Approval Accelerator project. Let's collaborate to drive positive change and foster innovation in research ethics!
+File Description
+================
+Contained in this repository are:
+- main.CSS: this file can be found in the "static" folder and controls the design of the front-end. The two logos can be found in this "static" folder as well.
+- index.html: this file is the only frontend page, 
+- Origin
 
-## Table of Contents
-- File Structure
-- Files Functions
-- Good to have
-- License
-- Contact Us
+
 
