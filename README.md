@@ -21,9 +21,9 @@ This is a noble project for the research community of Dalhousie University to he
 We intend to use AI to review contents of consent form to ensure researchers are submitting complete and correct information for the Board's peruals. the work was started by an intern in our facaulty who have now joined IBM. We will aprreciate free-lancers who may want to contribute code to the project.
 
 ## Table of Contents
-- File Structure(File Structure)
-- [Files Functions](#Files Functions)
-- [Good to have](#Good to have)
-- [License](#license)
-- [Contact Us](#Contact Us)
+- File Structure
+- Files Functions
+- Good to have
+- License
+- Contact Us
 
