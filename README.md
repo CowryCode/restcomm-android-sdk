@@ -17,8 +17,21 @@ Android Mobile SDK to easily integrate communication features (WebRTC, messaging
 
 Introduction
 ================
-This is a noble project for the research community of Dalhousie University to help improve the speed of Research Ethics Board (REB) approval which will speed up time for the research community.
-We intend to use AI to review contents of consent form to ensure researchers are submitting complete and correct information for the Board's peruals. the work was started by an intern in our facaulty who have now joined IBM. We will aprreciate free-lancers who may want to contribute code to the project.
+Welcome to the REB Approval Accelerator project! This initiative is aimed at benefiting the esteemed research community of Dalhousie University by streamlining the Research Ethics Board (REB) approval process. By optimizing the approval process, we aim to significantly reduce the turnaround time for researchers, thereby fostering a more efficient research environment.
+
+Project Overview
+================
+The primary objective of this project is to leverage artificial intelligence (AI) to expedite the review of research consent forms. Through AI-powered analysis, we aim to ensure that researchers submit comprehensive and accurate information, facilitating the REB's review process.
+
+Origin
+================
+The groundwork for this project was laid by an intern within our faculty, who has since transitioned to a role at IBM. Building upon the initial efforts, our team is dedicated to further developing and refining the REB Approval Accelerator.
+
+How You Can Contribute
+================
+We welcome contributions from freelancers who are passionate about advancing research ethics and accelerating the approval process. Whether you're proficient in coding, AI, or have valuable insights to share, your contributions are highly appreciated. Together, we can make a meaningful impact on the research community.
+
+Thank you for your interest in the REB Approval Accelerator project. Let's collaborate to drive positive change and foster innovation in research ethics!
 
 ## Table of Contents
 - File Structure
